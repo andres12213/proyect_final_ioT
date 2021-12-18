@@ -1,0 +1,7 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_clock.h:470:20:CLOCK_SetLpuart0Clock	16	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_clock.h:629:20:CLOCK_SetSimSafeDivs	8	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:50:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:127:6:BOARD_BootClockRUN	8	static
+../board/clock_config.c:199:6:BOARD_BootClockVLPR	8	static

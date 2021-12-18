@@ -1,0 +1,13 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_clock.h:438:20:CLOCK_EnableClock	24	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_port.h:271:20:PORT_SetPinConfig	32	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_port.h:374:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:96:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:121:6:BOARD_InitPins	8	static
+../board/pin_mux.c:155:6:BOARD_InitLCDPins	8	static
+../board/pin_mux.c:407:6:BOARD_InitBUTTONSPins	24	static
+../board/pin_mux.c:475:6:BOARD_InitLEDsPins	24	static
+../board/pin_mux.c:541:6:BOARD_InitDEBUG_UARTPins	8	static
+../board/pin_mux.c:585:6:BOARD_InitUSBPins	8	static
+../board/pin_mux.c:651:6:BOARD_InitACCEL_I2CPins	24	static
+../board/pin_mux.c:755:6:BOARD_InitOSCPins	8	static
+../board/pin_mux.c:784:6:BOARD_InitADCPins	8	static

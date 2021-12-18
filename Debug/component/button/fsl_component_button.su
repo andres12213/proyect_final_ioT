@@ -1,0 +1,15 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_common_arm.h:568:24:DisableGlobalIRQ	16	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_common_arm.h:595:20:EnableGlobalIRQ	24	static
+../component/button/fsl_component_button.c:120:13:BUTTON_NotificationUpdate	24	static
+../component/button/fsl_component_button.c:139:13:BUTTON_Event	32	static
+../component/button/fsl_component_button.c:210:13:BUTTON_Task	40	static
+../component/button/fsl_component_button.c:262:13:BUTTON_TimerEvent	24	static
+../component/button/fsl_component_button.c:296:13:BUTTON_OpenTimer	32	static
+../component/button/fsl_component_button.c:319:13:BUTTON_CloseTimer	32	static
+../component/button/fsl_component_button.c:341:17:BUTTON_Init	40	static
+../component/button/fsl_component_button.c:398:17:BUTTON_InstallCallback	32	static
+../component/button/fsl_component_button.c:413:17:BUTTON_Deinit	32	static
+../component/button/fsl_component_button.c:462:17:BUTTON_GetInput	24	static
+../component/button/fsl_component_button.c:475:17:BUTTON_WakeUpSetting	32	static
+../component/button/fsl_component_button.c:493:17:BUTTON_EnterLowpower	40	static
+../component/button/fsl_component_button.c:531:17:BUTTON_ExitLowpower	40	static

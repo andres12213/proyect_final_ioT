@@ -1,0 +1,10 @@
+C:\nxp\K32L2B31A_Project\CMSIS/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_common_arm.h:488:24:EnableIRQ	24	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_adc16.h:367:20:ADC16_EnableHardwareTrigger	16	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_lptmr.h:183:20:LPTMR_EnableInterrupts	24	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_lptmr.h:295:20:LPTMR_SetTimerPeriod	16	static
+../board/peripherals.c:157:13:ADC0_init	8	static
+../board/peripherals.c:210:13:LPTMR0_init	8	static
+../board/peripherals.c:273:13:LPUART0_init	8	static
+../board/peripherals.c:283:6:BOARD_InitPeripherals	8	static
+../board/peripherals.c:294:6:BOARD_InitBootPeripherals	8	static
