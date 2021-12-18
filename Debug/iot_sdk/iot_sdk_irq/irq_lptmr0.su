@@ -1,0 +1,3 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_lptmr.h:258:24:LPTMR_GetStatusFlags	16	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_lptmr.h:270:20:LPTMR_ClearStatusFlags	16	static
+../iot_sdk/iot_sdk_irq/irq_lptmr0.c:42:6:LPTMR0_IRQHandler	16	static

@@ -1,0 +1,12 @@
+../drivers/fsl_spi.h:338:20:SPI_Enable	16	static
+../drivers/fsl_spi.h:432:20:SPI_EnableDMA	16	static
+../drivers/fsl_spi.h:453:24:SPI_GetDataRegisterAddress	16	static
+../drivers/fsl_dma.h:446:24:DMA_GetRemainingBytes	16	static
+../drivers/fsl_dma.h:589:20:DMA_StartTransfer	16	static
+../drivers/fsl_dma.h:604:20:DMA_StopTransfer	16	static
+../drivers/fsl_spi_dma.c:61:13:SPI_TxDMACallback	40	static
+../drivers/fsl_spi_dma.c:87:13:SPI_RxDMACallback	40	static
+../drivers/fsl_spi_dma.c:126:6:SPI_MasterTransferCreateHandleDMA	32	static
+../drivers/fsl_spi_dma.c:188:10:SPI_MasterTransferDMA	48	static
+../drivers/fsl_spi_dma.c:289:10:SPI_MasterTransferGetCountDMA	40	static
+../drivers/fsl_spi_dma.c:320:6:SPI_MasterTransferAbortDMA	16	static

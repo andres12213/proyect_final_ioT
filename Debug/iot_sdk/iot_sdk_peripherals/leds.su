@@ -1,0 +1,5 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_gpio.h:162:20:GPIO_PinWrite	24	static
+C:\nxp\K32L2B31A_Project\drivers/fsl_gpio.h:221:20:GPIO_PortToggle	16	static
+../iot_sdk/iot_sdk_peripherals/leds.c:42:7:encender_led_verde	8	static
+../iot_sdk/iot_sdk_peripherals/leds.c:47:7:apagar_led_verde	8	static
+../iot_sdk/iot_sdk_peripherals/leds.c:52:7:toggle_led_rojo	8	static

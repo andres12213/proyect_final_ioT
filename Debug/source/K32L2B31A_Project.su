@@ -1,0 +1,6 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_lptmr.h:339:20:LPTMR_StartTimer	24	static
+../source/K32L2B31A_Project.c:38:6:Alarma_Init	8	static
+../source/K32L2B31A_Project.c:43:10:Alarma_Set	16	static
+../source/K32L2B31A_Project.c:49:6:Alarma_Elapsed	16	static
+../source/K32L2B31A_Project.c:58:6:BOARD_Init	8	static
+../source/K32L2B31A_Project.c:71:5:main	8	static
