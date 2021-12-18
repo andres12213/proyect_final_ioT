@@ -1,0 +1,6 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_gpio.h:244:24:GPIO_PinRead	16	static
+../iot_sdk/iot_sdk_peripherals/botones.c:43:7:boton1LeerEstado	16	static
+../iot_sdk/iot_sdk_peripherals/botones.c:56:7:boton2LeerEstado	16	static
+../iot_sdk/iot_sdk_peripherals/botones.c:69:7:Boton1_Presionado	8	static
+../iot_sdk/iot_sdk_peripherals/botones.c:73:6:Key_Task_Init	8	static
+../iot_sdk/iot_sdk_peripherals/botones.c:78:6:Key_Task_Run	8	static

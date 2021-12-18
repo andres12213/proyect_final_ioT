@@ -1,0 +1,6 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_adc16.h:491:24:ADC16_GetChannelConversionValue	16	static
+../iot_sdk/iot_sdk_peripherals/sensor_temperatura.c:19:6:sensorTemperaturaIniciarCaptura	8	static
+../iot_sdk/iot_sdk_peripherals/sensor_temperatura.c:23:6:sensorTemperaturaEsperarResultado	8	static
+../iot_sdk/iot_sdk_peripherals/sensor_temperatura.c:31:7:sensorTemperaturaObtenerDatoCelsius	32	static
+../iot_sdk/iot_sdk_peripherals/sensor_temperatura.c:55:6:sensorTe_ini	8	static
+../iot_sdk/iot_sdk_peripherals/sensor_temperatura.c:59:6:Sensortemp_Task_Run	8	static

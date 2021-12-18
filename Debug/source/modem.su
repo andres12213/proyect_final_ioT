@@ -1,0 +1,11 @@
+../source/modem.c:51:6:Send_MQTT_Data	16	static
+../source/modem.c:75:6:limpiarBufferComando	16	static
+../source/modem.c:82:6:Send_MQTT_Error	8	static
+../source/modem.c:115:6:Modem_Init	8	static
+../source/modem.c:125:6:Modem_Task_Run	8	static
+../source/modem.c:229:6:Test_Rta_Modem	24	static
+../source/modem.c:237:6:Respuesta_Modem	32	static
+../source/modem.c:263:6:Modem_Rta_Cmd	24	static
+../source/modem.c:277:6:Modem_Rta_Run	8	static
+../source/modem.c:290:6:Modem_Check_URC_Run	8	static
+../source/modem.c:308:6:Recibido_URC	8	static

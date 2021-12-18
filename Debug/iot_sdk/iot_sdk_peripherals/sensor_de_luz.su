@@ -1,0 +1,6 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_adc16.h:491:24:ADC16_GetChannelConversionValue	16	static
+../iot_sdk/iot_sdk_peripherals/sensor_de_luz.c:47:7:sensorDeLuzIniciarCaptura	8	static
+../iot_sdk/iot_sdk_peripherals/sensor_de_luz.c:54:7:sensorDeLuzEsperarResultado	8	static
+../iot_sdk/iot_sdk_peripherals/sensor_de_luz.c:79:8:sensorDeLuzObtenerdatoADC	16	static
+../iot_sdk/iot_sdk_peripherals/sensor_de_luz.c:93:6:SensorLuz_Init	8	static
+../iot_sdk/iot_sdk_peripherals/sensor_de_luz.c:97:6:SensorLuz_Task_Run	8	static

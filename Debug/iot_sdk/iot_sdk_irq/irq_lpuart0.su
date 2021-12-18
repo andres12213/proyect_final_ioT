@@ -1,0 +1,5 @@
+C:\nxp\K32L2B31A_Project\drivers/fsl_lpuart.h:774:23:LPUART_ReadByte	16	static
+../iot_sdk/iot_sdk_irq/irq_lpuart0.c:41:6:LPUART0_IRQHandler	24	static
+../iot_sdk/iot_sdk_irq/irq_lpuart0.c:62:6:pushNuevoByteEnBufferCircular	16	static
+../iot_sdk/iot_sdk_irq/irq_lpuart0.c:78:9:pullByteDesdeBufferCircular	16	static
+../iot_sdk/iot_sdk_irq/irq_lpuart0.c:92:9:numeroDeBytesDisponiblesEnBufferRx	8	static
